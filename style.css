@@ -81,7 +81,7 @@ li{
     border: 0px solid #000000;
     border: 0px solid #000000;
     box-shadow: 0px 0px 5px 2px rgb(41, 41, 41);
-    margin-bottom: 775px;
+    margin-bottom: 61%;
     margin-top: 1%;
     animation-name: nav;
     animation-duration: 1s;
@@ -240,7 +240,5 @@ footer{
     .content-modal{
         height: 20%;
     }
-    .epica{
-        margin-bottom: 0%;
-    }
 }
+
